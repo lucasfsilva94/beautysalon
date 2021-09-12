@@ -521,6 +521,7 @@ footer .social a:hover {
 /*==== MEDIA QUERIES =========================== */
 /* extra large devices: 1200 > */
 @media (min-width: 1200px) {
+  /*==== LAYOUT ========= */
   .container {
     max-width: 1120px;
     margin-left: auto;
@@ -539,6 +540,7 @@ footer .social a:hover {
     margin-right: auto;
   }
 
+  /*==== NAVIGATION ========= */
   nav .menu {
     opacity: 1;
     visibility: visible;
@@ -572,6 +574,7 @@ footer .social a:hover {
     margin-top: var(--header-height);
   }
 
+  /*==== HOME ========= */
   #home .container {
     grid-auto-flow: column;
     justify-content: space-between;
@@ -590,6 +593,7 @@ footer .social a:hover {
     margin-right: 7rem;
   }
 
+  /*==== ABOUT ========= */
   #about .container {
     grid-auto-flow: column;
     margin: 0 auto;
@@ -609,6 +613,7 @@ footer .social a:hover {
     right: auto;
   }
 
+  /*==== SERVICES ========= */
   .cards {
     grid-template-columns: 1fr 1fr 1fr;
   }
@@ -618,11 +623,13 @@ footer .social a:hover {
     padding-right: 3rem;
   }
 
+  /*==== TESTIMONIALS ========= */
   #testimonials .container {
     margin-left: auto;
     margin-right: auto;
   }
 
+  /*==== CONTACT ========= */
   #contact .container {
     grid-auto-flow: column;
     align-items: center;
@@ -636,6 +643,7 @@ footer .social a:hover {
     padding: 3.75rem 0;
   }
 
+  /*==== FOOTER ========= */
   footer .container {
     grid-auto-flow: column;
     align-items: center;
