@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="BeautySalon" src="https://user-images.githubusercontent.com/22107794/133002811-5640c733-6b1f-4aee-8be2-38fb8452535d.png" width="100%">
+  <img alt="beautysalon" src="https://user-images.githubusercontent.com/22107794/133188800-3c936765-ea73-4387-b2fb-a73ffe20b374.png" width="100%">
 </p>
 
 ## 💻 Projeto
